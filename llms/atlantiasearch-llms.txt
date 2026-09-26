@@ -1,0 +1,44 @@
+# Atlantia
+
+> AI-powered market research and consumer intelligence platform. Trusted by 200+ teams across Latin America and the United States.
+
+## About
+
+Atlantia is an AI platform founded in 2020 in Mexico City that automates market research. It combines proprietary AI models with statistical rigor to deliver brand tracking, demand analysis, concept testing, packaging testing, pricing strategy, and 10+ automated solutions. Results in days, not months.
+
+## Business Units
+
+- [Atlantia Insights](https://www.atlantia.ai/en/insights): AI market research platform with 10+ automated solutions
+- [maia](https://www.atlantia.ai): AI platform for market research and consumer intelligence
+- [Shelftia](https://www.shelftia.com): AI-driven SaaS for real-time price monitoring across retail
+- [Suppi](https://www.suppi.com.mx): AI-powered grocery price comparison in Mexico
+
+## Solutions
+
+- [Brand Tracker](https://www.atlantia.ai/en/solutions): Continuous brand health monitoring with AI insights
+- [Consumer Demand Map](https://www.atlantia.ai/en/solutions): Identify unmet demand spaces for growth
+- [Concept Test](https://www.atlantia.ai/en/solutions): Validate product concepts with AI analysis
+- [Packaging Test](https://www.atlantia.ai/en/solutions): Evaluate package design and shelf impact
+- [Price Strategy](https://www.atlantia.ai/en/solutions): Optimal pricing with conjoint, Van Westendorp, Gabor-Granger
+- [Usage & Attitudes](https://www.atlantia.ai/en/solutions): Consumer behavior and motivation studies
+- [Ad Testing](https://www.atlantia.ai/en/solutions): Advertising effectiveness measurement
+- [Geomarketing](https://www.atlantia.ai/en/solutions): Location intelligence for commercial strategy
+- [Conjoint Analysis](https://www.atlantia.ai/en/solutions): Feature preference and willingness-to-pay analysis
+
+## Content
+
+- [About](https://www.atlantia.ai/en/about): Company information, mission, and team
+- [Glossary](https://www.atlantia.ai/en/glossary): Market research terms and definitions
+- [Guides](https://www.atlantia.ai/en/guides): Practical articles on AI market research
+- [Reports](https://www.atlantia.ai/en/reports): Proprietary data and industry analysis
+
+## Coverage
+
+Countries: Mexico, Colombia, Chile, Peru, Argentina, Brazil, United States
+Languages: Spanish, English
+Industries: CPG, Retail, Pharma, Financial Services, Telecom, Technology
+
+## Contact
+
+Website: https://www.atlantia.ai
+LinkedIn: https://www.linkedin.com/company/atlantia-search/

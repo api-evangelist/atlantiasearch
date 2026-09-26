@@ -1,23 +1,79 @@
 aid: atlantiasearch
+
 name: Atlantiasearch
-description: 'Atlantiasearch is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.atlantia.ai/assets/atlantia-vertical.png
+
+description: Atlantiasearch, operating under the brand Atlantia, provides an AI‑powered market research platform that automates consumer insights,
+  product testing, and data analysis. The service helps brands make faster, data‑driven decisions by delivering automated studies, concept tests,
+  and reporting in minutes rather than weeks. It serves teams across the Americas, offering tools for market research, shopper insights, and product
+  innovation, with a focus on AI and large‑scale data processing.
+
 url: https://raw.githubusercontent.com/api-evangelist/atlantiasearch/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
-- Company
-apis: []
+- AI
+- Market-Research
+- Consumer-Insights
+- Data-Analytics
+- SaaS
+- Platform
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/atlantiasearch-llms.txt
+- type: Hosts
+  url: hosts/atlantiasearch-hosts.yml
+- type: Vendors
+  url: vendors/atlantiasearch-vendors.yml
+- type: PrivacyPolicy
+  url: https://www.atlantia.ai/es/glossary/privacy_analytics
+- type: Pricing
+  url: https://www.atlantia.ai/es/glossary/pricing_research
+- type: Documentation
+  url: https://www.atlantia.ai/es/guides
+- type: DomainSecurity
+  url: security/atlantiasearch-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/atlantiasearch
+  url: https://www.atlantia.ai
+
+apis:
+- name: Atlantiasearch API
+  description: API for Atlantiasearch platform, providing market research data and insights.
+  humanURL: https://www.atlantia.ai/es/guides
+  baseURL: null
+  aid: atlantiasearch:atlantiasearch-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Guides page redirects and renders via JavaScript, preventing retrieval of a machine‑readable OpenAPI spec.
+  evidence:
+  - url: https://www.atlantia.ai/es/guides
+    status: 307
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 8
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
