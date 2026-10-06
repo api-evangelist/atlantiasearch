@@ -22,7 +22,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-26'
 
-modified: '2026-09-26'
+modified: '2026-10-06'
 
 tags:
 - Artificial Intelligence
@@ -46,6 +46,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://www.atlantia.ai/insights
+  type: Blog
 - type: LLMsTxt
   url: llms/atlantiasearch-llms.txt
 - type: Hosts
